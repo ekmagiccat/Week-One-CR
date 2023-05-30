@@ -17,7 +17,7 @@ This website gives a description of Eva and her interests & projects.
 
 ## GitHub Pages
 
-[Portfolio]()
+[Portfolio](https://ekmagiccat.github.io/Week-One-CR/)
 
 ## Known Bugs
 
@@ -27,4 +27,4 @@ This website gives a description of Eva and her interests & projects.
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Copyright (c) _05/26/2023_ \_Eva Kemp
+Copyright (c) _05/26/2023_ Eva Kemp
