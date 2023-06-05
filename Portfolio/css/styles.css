@@ -1,5 +1,4 @@
 body {
-  margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
@@ -10,6 +9,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
 p {
   text-align: center;
 }
@@ -36,6 +36,7 @@ img {
   margin: 7%;
   margin-top: 5%;
   padding: 50px;
+  border: 1px solid #209ed8;
   box-sizing: border-box;
   float: right;
   background-color: seagreen;
@@ -45,9 +46,10 @@ img {
   margin: 7%;
   margin-top: 5%;
   padding: 50px;
+  border: 1px solid #26853c;
   box-sizing: border-box;
   float: left;
-  background-color: rgb(32, 158, 216);
+  background-color: #209ed8;
 }
 .me {
   text-decoration: underline;
